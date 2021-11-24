@@ -7,9 +7,9 @@ public class Listex {
     public static void main(String[] args) {
         List<Employee> list = new ArrayList<>();
 
-        list.add(new Employee(1, "Aaryan", 12345)); // 0
-        list.add(new Employee(2, "Abhay", 12345)); // 1
-        list.add(new Employee(3, "Akash", 12345)); // 2
+        list.add(new Employee(1, "Abhi", 12345)); // 0
+        list.add(new Employee(2, "Arun", 12345)); // 1
+        list.add(new Employee(3, "Aishu", 12345)); // 2
 
         /* for (int i = 0; i < list.size(); i++) {
             System.out.println("EID : " + list.get(i).eId);
